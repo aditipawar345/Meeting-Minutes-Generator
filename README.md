@@ -63,7 +63,7 @@ meeting-minutes-ps3/
 
 ### 2. Clone / Download Repository
 ```bash
-git clone https://github.com/aditipawar345/llm-ps3-03.git
+git clone https://github.com/aditipawar345/Meeting-Minutes-Generator.git
 cd meeting-minutes-ps3
 ```
 
