@@ -1,0 +1,17 @@
+Meeting: Q1 Product Roadmap & Security Review
+Attendees: Sarah (VP Product), Vikram (Lead Architect), Anita (Frontend Lead), Rohan (Security Analyst), Dan (Customer Success).
+
+Sarah: Welcome everyone. We have three main topics today: the upcoming SOC-2 compliance audit, frontend performance regressions reported by customers, and finalizing the Q1 roadmap priorities.
+Vikram: Regarding the performance regression: we traced the memory leak in the dashboard to uncleaned WebSocket listeners in the real-time notification widget.
+Anita: I can patch the listener lifecycle and submit a pull request by Thursday.
+Sarah: Perfect. Anita, please make sure QA tests that under simulated slow network conditions before merging.
+Dan: Customers in enterprise tier are also asking for CSV export on custom reports.
+Sarah: Decision: We will prioritize the enterprise CSV export feature for the Q1 release.
+Sarah: Decision: We will postpone the dark mode redesign until Q2.
+Rohan: For SOC-2, we need all production database access logged and monitored via centralized SIEM.
+Vikram: I will work with Rohan to implement automated audit logging by next Tuesday.
+Rohan: I will also prepare the vulnerability assessment report for external auditors by December 10th.
+Sarah: Someone should also draft user communication regarding the scheduled maintenance window this weekend.
+Vikram: I don't have bandwidth for that.
+Sarah: Okay, owner not assigned for now, I will follow up with Operations later today.
+Sarah: Thanks everyone, let's wrap up.

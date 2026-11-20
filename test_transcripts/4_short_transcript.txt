@@ -1,0 +1,4 @@
+Attendees: Ken and Lisa.
+
+Ken: Lisa, we decided to switch our cloud storage provider to AWS S3.
+Lisa: Noted. I will initiate the bucket setup and IAM policy configuration by Friday 3 PM.

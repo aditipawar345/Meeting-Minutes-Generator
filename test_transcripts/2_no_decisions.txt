@@ -1,0 +1,8 @@
+Attendees: Alex (Engineering), Jordan (Marketing), Sam (Product).
+
+Sam: Thanks for hopping on the sync. Alex, how is the server migration going?
+Alex: It is about 70% done. We are still benchmarking database query times on the new cluster.
+Jordan: On the marketing side, we are running A/B tests on the landing page copy.
+Sam: Great. Let's keep monitoring both through this week. No final calls or decisions needed today, let's just observe metrics and sync again Thursday.
+Alex: I will publish the latency report by tomorrow 5 PM.
+Jordan: I will share initial conversion metrics by Wednesday morning.

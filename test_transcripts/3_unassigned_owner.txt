@@ -1,0 +1,7 @@
+Attendees: Elena (Director), David (Ops), Carlos (Security).
+
+Elena: We reviewed the compliance checklist. We agreed that two-factor authentication must be enforced across all staff accounts starting next month.
+Carlos: Decision: Enforce hardware security keys for admin access.
+Elena: The backup disaster recovery plan document also needs a complete overhaul before the upcoming audit.
+David: Absolutely, it is badly outdated. Someone definitely needs to rewrite section 4 and update emergency contacts by end of next week.
+Elena: Yes, that is critical. Nobody has volunteered yet, so we will assign someone in tomorrow's standup. Meeting adjourned.

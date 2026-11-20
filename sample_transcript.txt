@@ -1,0 +1,10 @@
+Attendees: Priya (PM), Rahul (Dev lead), Meera (QA), Arjun (Design).
+
+Priya: Let's start. The main agenda is the login bug and the Q4 release date.
+Rahul: The login bug is caused by an expired token check. I can fix it by Friday.
+Meera: Good. I will run regression tests once Rahul pushes the fix, by Monday.
+Arjun: The new dashboard mockups are ready. I'll share them with the team by Wednesday.
+Priya: Decision: we will keep the Q4 release date of 15 December.
+Priya: Decision: the mobile app will be postponed to Q1 next year.
+Rahul: Someone also needs to update the API documentation.
+Priya: Let's assign that to Meera after testing, and we'll review it next week.
