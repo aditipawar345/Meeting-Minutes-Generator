@@ -1,7 +1,5 @@
-# Meeting Minutes Generator (Problem Statement 3)
+# Meeting Minutes Generator 
 
-**Course:** Generative AI Lab / Assignment 3  
-**Roll Number:** 3  
 **Model Used:** `llama-3.3-70b-versatile` (via Groq Cloud API)  
 **Framework:** Streamlit, Python-docx, Groq Python SDK  
 
